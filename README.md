@@ -1,4 +1,4 @@
-<img width="798" height="427" alt="Screenshot 2026-06-12 214212" src="https://github.com/user-attachments/assets/d67c9640-8704-48bb-ad30-f15c831017fb" />
+
 # Student vs Animals
 
 A colorful Tkinter endless runner built in Python for Code in Place.
