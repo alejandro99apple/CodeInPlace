@@ -5,9 +5,7 @@ A colorful Tkinter endless runner built in Python for Code in Place.
 
 You control a hand-drawn student running through a natural landscape while avoiding dangerous animals like lions, eagles, and crocodiles. As you survive longer, the game gets faster, making each round more intense.
 
-## Screenshot
-
-![Game screenshot](./screenshot.png)<img width="798" height="427" alt="Screenshot 2026-06-12 214212" src="https://github.com/user-attachments/assets/f86aa37d-ec29-4909-b42f-a11728fd4c22" />
+<img width="798" height="427" alt="Screenshot 2026-06-12 214212" src="https://github.com/user-attachments/assets/f86aa37d-ec29-4909-b42f-a11728fd4c22" />
 
 
 ## Highlights
